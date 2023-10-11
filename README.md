@@ -23,7 +23,7 @@
 <h3 align="center"></h3>
 
   <p align="center">
-    Full Stack MERN OpenAI API App
+    Full Stack MERN OpenAI API App for writing content on linkedin
     <br />
   </p>
 </div>

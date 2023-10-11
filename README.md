@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/foreycodes/AI-MERN-Image-Generation">
-    <img src="https://www.pngmart.com/files/21/AI-PNG-Isolated-HD.png" alt="Logo" width="400" height="250">
+    <img src="https://www.pngmart.com/files/21/AI-PNG-Isolated-HD.png" alt="Logo" width="400" height="255">
   </a>
 
 <h3 align="center"></h3>
